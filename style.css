@@ -217,6 +217,16 @@ footer .questions {
     .first{
         flex-wrap: wrap;
     }
+    .secImg img {
+        width: 400px;
+    }
+
+    .secImg video {
+        width: 345px;
+        top: 89px;
+        right: 0;
+        
+    }
     
     .hero> :nth-child(1) {
         font-size: 32px;
